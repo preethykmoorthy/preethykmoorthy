@@ -1,6 +1,6 @@
 ## Hi there, I'm Preethy 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E\&size=24\&center=true\&vCenter=true\&width=500\&lines=Aspiring+Software+Developer;Web+Developer;Python+Enthusiast;Lifelong+Learner)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F75C7E\&size=24\&center=true\&vCenter=true\&width=500\&lines=Aspiring+Software+Developer;Web+Developer;Python+Enthusiast;)
 
 ---
 
