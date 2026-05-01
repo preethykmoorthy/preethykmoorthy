@@ -44,13 +44,7 @@
 
 ## 🌟 Projects
 
-🔹 Add your best projects here
-
-### 📌 Example Project
-
-* Built using Python & JavaScript
-* Solves real-world problem
-* Includes UI + backend logic
+🔹 Website for blood donation NGO named "Manidham Kappom"
 
 ---
 
